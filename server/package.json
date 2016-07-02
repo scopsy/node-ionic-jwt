@@ -1,0 +1,29 @@
+{
+  "name": "node-ionic-jwt-auth",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scopsy/node-ionic-jwt-auth.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.7.1",
+    "dotenv": "^2.0.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "jsonwebtoken": "^7.0.1",
+    "lodash": "^4.13.1",
+    "lusca": "^1.4.1",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0",
+    "request": "^2.72.0"
+  },
+  "license": "MIT"
+}
