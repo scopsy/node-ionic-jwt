@@ -2,7 +2,7 @@
 Ionic authentication using JWT and nodejs.
 
 An Ionic authentication example using JWT implemented on nodejs server.
-**[Blog Post](http://grossman.io/ionic-jwt-auth-with-facebook-using-nodejs-part-1/)**
+**[Blog Post](http://blog.grossman.io/ionic-jwt-auth-with-facebook-using-nodejs-part-1/)**
 #Installation
 - clone repository
 - enter server directory and "npm install"
