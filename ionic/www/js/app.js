@@ -82,12 +82,6 @@ angular.module('starter', ['ionic', 'satellizer', 'starter.controllers'])
 
   commonConfig.redirectUri = 'http://localhost:8100/';
 
-
-  console.log(angular.extend({}, commonConfig, {
-    clientId: '602654273245591',
-    url: 'http://localhost:3000/auth/facebook'
-  }))
-
   $authProvider.facebook(angular.extend({}, commonConfig, {
     clientId: '602654273245591',
     url: 'http://localhost:3000/auth/facebook'
